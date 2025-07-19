@@ -1,8 +1,3 @@
-Here’s a sample `README.md` for your project **Build-A-RAG-from-Scratch**:
-
----
-
-```markdown
 # Build-A-RAG-from-Scratch
 
 This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)** pipeline from scratch using Python. It walks through the process of loading documents, generating embeddings, storing them, and querying them to provide intelligent responses using LLMs.
