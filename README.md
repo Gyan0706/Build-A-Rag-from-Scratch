@@ -32,14 +32,13 @@ build\_rag\_from\_scratch-main/
 ## 🔧 Setup Instructions
 
 1. **Clone the repository:**
-   ```bash
+   ```
    git clone https://github.com/Gyan0706/Build-A-Rag-from-Scratch.git
    cd Build-A-Rag-from-Scratch
-````
-
+   ````
 2. **Create and activate a virtual environment:**
 
-   ```bash
+   ```
    python -m venv venv
    venv\Scripts\activate   # On Windows
    # source venv/bin/activate   # On Linux/Mac
@@ -47,21 +46,21 @@ build\_rag\_from\_scratch-main/
 
 3. **Install dependencies:**
 
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 
 4. **Set up your environment variables:**
    Create a file named `env.js` in the root folder with your keys:
 
-   ```js
+   ```
    // env.js
    export const OPENAI_API_KEY = "your_openai_api_key_here";
    ```
 
 5. **Run the main script:**
 
-   ```bash
+   ```
    python main.py
    ```
 
